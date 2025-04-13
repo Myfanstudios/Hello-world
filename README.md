@@ -1,6 +1,6 @@
-👋 About Me
+<h1 align="centre"> 👋 About Me </h1>
 
-Hi, I'm Simon — a retired Army veteran and current Web Stack Developer student at Code Academy, completing this course as part of my rehabilitation and return to the workforce after service-related injuries.
+<h3 align="left"> Hi, I'm Simon — a retired Army veteran and current Web Stack Developer student at Code Academy, completing this course as part of my rehabilitation and return to the workforce after service-related injuries. </h3>
 
 💻 I've been building websites for over 7 years, primarily using WordPress and Shopify, and I currently manage two live projects:
 
